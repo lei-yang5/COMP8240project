@@ -23,9 +23,9 @@ Goyal, Animesh Mukherjee. https://arxiv.org/pdf/2012.10289v2.pdf
 
 ## Folder Description 📂
 
-*./Annotation                    --> Contains the annotation files.
-*./Evaluation - New Dataset      --> Contains the evaluation results performed on new datasets.
-*./Measure of Agreement  	     --> Contains the codes used to measure Interannotators Agreeement.
-*./New Dataset                   --> Contains the raw and final transformed on the mew constructed datasets.
-*./Preprocessing                 --> Contains the codes used to preprocess the new datasets.
-*./Replication                   --> Contains the codes used to replicate on the original paper result.
+* ./Annotation                    --> Contains the annotation files.
+* ./Evaluation - New Dataset      --> Contains the evaluation results performed on new datasets.
+* ./Measure of Agreement  	      --> Contains the codes used to measure Interannotators Agreeement.
+* ./New Dataset                   --> Contains the raw and final transformed on the mew constructed datasets.
+* ./Preprocessing                 --> Contains the codes used to preprocess the new datasets.
+* ./Replication                   --> Contains the codes used to replicate on the original paper result.
